@@ -7,8 +7,7 @@ or configuration support.
 
 ## Building
 
-Other than `make`, `pkg-config` and a working C99 or C++ compiler, you'll need
-`sdl2` development files installed.
+`cmake`
 
 ## Running
 
